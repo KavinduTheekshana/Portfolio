@@ -22,7 +22,7 @@
 */
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 14px;
 }
 
@@ -32,7 +32,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 600;
 }
 
@@ -201,7 +201,7 @@ p {
     color: #fff !important;
     font-weight: 700;
     letter-spacing: 3px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 .navbar-toggle {
@@ -219,7 +219,7 @@ p {
 }
 
 .navbar-custom .navbar-toggles {
-    padding: .25rem .75rem;
+    padding: 0.25rem 0.75rem;
     font-size: 18px;
     background: 0 0;
     border: 1px solid transparent;
@@ -248,8 +248,8 @@ p {
 .nav-sticky.navbar-custom {
     margin-top: 0px;
     padding: 10px 0px;
-    background-color: #FFF;
-    box-shadow: 0 10px 33px rgba(0, 0, 0, .1);
+    background-color: #fff;
+    box-shadow: 0 10px 33px rgba(0, 0, 0, 0.1);
     color: #fff !important;
 }
 
@@ -258,7 +258,7 @@ p {
 }
 
 .nav-sticky.navbar-custom .navbar-toggles {
-    padding: .25rem .75rem;
+    padding: 0.25rem 0.75rem;
     border: 1px solid transparent;
     outline: 0;
 }
@@ -384,7 +384,7 @@ p {
     padding: 16px 10px;
     border-radius: 0;
     font-weight: 600;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 .nav-tabs .nav-item.show .nav-link,
@@ -599,7 +599,7 @@ p {
 
 .bg-counter {
     position: relative;
-    background-image: url(https://via.placeholder.com/2000X1333//88929f/5a6270C/O%20https://placeholder.com/);
+    background-image: url(../images/list.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
@@ -732,7 +732,7 @@ p {
 .footer .logo {
     font-weight: 700;
     letter-spacing: 3px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 20px;
 }
 
@@ -746,7 +746,7 @@ p {
         margin-top: 0px;
         padding: 10px 0px !important;
         background-color: #fff !important;
-        box-shadow: 0 10px 33px rgba(0, 0, 0, .1);
+        box-shadow: 0 10px 33px rgba(0, 0, 0, 0.1);
         color: #000 !important;
     }
     .navbar-custom .navbar-nav li a {
