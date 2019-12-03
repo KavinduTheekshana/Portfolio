@@ -1,3 +1,3 @@
 # Portfolio
 
-<p align="center"><img src="images/readme.png"></p>
+<p align="center"><img src="images/readme.jpg"></p>
